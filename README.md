@@ -8,3 +8,6 @@ The goal of this project was to build a solid foundation in database schema mana
 - Understand how to define database tables
 - Practice modifying table structures
 - Learn how to remove database objects
+
+## 🧰 Technologies Used
+-SQL (T-SQL / SQL Server)
