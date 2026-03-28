@@ -11,3 +11,10 @@ The goal of this project was to build a solid foundation in database schema mana
 
 ## 🧰 Technologies Used
 -SQL (T-SQL / SQL Server)
+
+## 📂 Project Structure
+SQL/
+- Create.sql
+- Alter.sql
+- Alter_Drop.sql
+- Drop.sql
