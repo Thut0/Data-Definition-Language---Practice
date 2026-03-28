@@ -21,3 +21,17 @@ SQL/
 
 ## 🧱 Concepts Covered
 ### 1. Create Table
+- Defined a persons table
+- Specified appropriate data types for each column
+- Implemented a Primary Key to ensure uniqueness
+
+### 2. Alter Table
+- Added a new column (email)
+- Modified the table structure without losing existing data
+
+### 3. Drop Column
+- Removed unnecessary columns (phone)
+
+### 4. Drop Table
+- Deleted the entire table
+- Demonstrated full control over database object lifecycle
