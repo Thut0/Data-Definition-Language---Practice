@@ -18,3 +18,6 @@ SQL/
 - Alter.sql
 - Alter_Drop.sql
 - Drop.sql
+
+## 🧱 Concepts Covered
+### 1. Create Table
